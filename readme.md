@@ -1,0 +1,1 @@
+This is a google homepage programming excercise. By when you check this again you must have already become a full stack developer.
